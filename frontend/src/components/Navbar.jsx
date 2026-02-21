@@ -2,10 +2,10 @@ import { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 
 const NAV_LINKS = [
-  { path: '/', label: 'Leaderboard', matchPaths: ['/', '/gear/'] },
+  { path: '/', label: 'Gear Leaderboard', matchPaths: ['/', '/gear/'] },
   { path: '/matchups', label: 'Matchups', matchPaths: ['/matchups'] },
   { path: '/players', label: 'Players', matchPaths: ['/players', '/player/'] },
-  { path: '/shop', label: 'Shop', matchPaths: ['/shop'] },
+  { path: '/shop', label: 'Shop Gear', matchPaths: ['/shop'] },
 ]
 
 function isActive(pathname, matchPaths) {

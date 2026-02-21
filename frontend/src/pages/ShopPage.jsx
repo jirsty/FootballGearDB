@@ -31,7 +31,10 @@ export default function ShopPage() {
     const params = {}
     if (category !== 'All') params.category = category
     getGearList(params)
-      .then(setGear)
+      .then((data) => {
+        data.sort((a, b) => (a.rank ?? 999) - (b.rank ?? 999))
+        setGear(data)
+      })
       .catch(console.error)
       .finally(() => setLoading(false))
   }, [category])
