@@ -1,0 +1,882 @@
+{
+  "gear_items": [
+    {
+      "category": "helmet",
+      "brand": "Riddell",
+      "model": "SpeedFlex",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Riddell+SpeedFlex+Football+Helmet",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "helmet",
+      "brand": "Riddell",
+      "model": "Axiom",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Riddell+Axiom+Football+Helmet",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "helmet",
+      "brand": "Schutt",
+      "model": "F7",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Schutt+F7+Football+Helmet",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "helmet",
+      "brand": "Vicis",
+      "model": "Zero2",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Vicis+Zero2+Football+Helmet",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "helmet",
+      "brand": "Xenith",
+      "model": "Shadow XR",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Xenith+Shadow+XR+Football+Helmet",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Nike",
+      "model": "Vapor Edge Pro 360",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Nike+Vapor+Edge+Pro+360+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Nike",
+      "model": "Vapor Edge Speed 360",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Nike+Vapor+Edge+Speed+360+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Nike",
+      "model": "Alpha Menace Elite 4",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Nike+Alpha+Menace+Elite+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Under Armour",
+      "model": "Spotlight Franchise",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Under+Armour+Spotlight+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Adidas",
+      "model": "Adizero Electric",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Adidas+Adizero+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Jordan",
+      "model": "1 TD Low",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Jordan+1+TD+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Under Armour",
+      "model": "Highlight MC",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Under+Armour+Highlight+MC+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "cleats",
+      "brand": "Nike",
+      "model": "Vapor Untouchable Pro 3",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Nike+Vapor+Untouchable+Pro+3+Football+Cleats",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "gloves",
+      "brand": "Nike",
+      "model": "Vapor Jet 8.0",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Nike+Vapor+Jet+8.0+Football+Gloves",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "gloves",
+      "brand": "Cutters",
+      "model": "Rev Pro 6.0",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Cutters+Rev+Pro+6.0+Football+Gloves",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "gloves",
+      "brand": "Under Armour",
+      "model": "F8",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Under+Armour+F8+Football+Gloves",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "gloves",
+      "brand": "Grip Boost",
+      "model": "Stealth Pro",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Grip+Boost+Stealth+Pro+Football+Gloves",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "gloves",
+      "brand": "Nike",
+      "model": "Superbad 7.0",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Nike+Superbad+7.0+Football+Gloves",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "visor",
+      "brand": "Oakley",
+      "model": "Football Visor Clear",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Oakley+Football+Visor",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "visor",
+      "brand": "SHOC",
+      "model": "Lightning Bolt Visor",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=SHOC+Football+Visor",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "facemask",
+      "brand": "Riddell",
+      "model": "S2BDC-HT-LW",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Riddell+Football+Facemask",
+      "affiliate_source": "amazon"
+    },
+    {
+      "category": "facemask",
+      "brand": "Schutt",
+      "model": "TEGOP-II",
+      "image_url": null,
+      "affiliate_url": "https://www.amazon.com/s?k=Schutt+Football+Facemask",
+      "affiliate_source": "amazon"
+    }
+  ],
+  "players": [
+    {
+      "gsis_id": "00-0033873",
+      "name": "Patrick Mahomes",
+      "team": "KC",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qrdbvu4iqy7wkqg8jq8d",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Adidas", "model": "Adizero Electric"}
+      ]
+    },
+    {
+      "gsis_id": "00-0034857",
+      "name": "Josh Allen",
+      "team": "BUF",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lq4ezafbszwwt2qsvhqv",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0034796",
+      "name": "Lamar Jackson",
+      "team": "BAL",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cruqs6qpbykh7a2whd7p",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036442",
+      "name": "Joe Burrow",
+      "team": "CIN",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/jzzqz5ubkilrn9dpxtlp",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036389",
+      "name": "Jalen Hurts",
+      "team": "PHI",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k2p5yb4qmqwoo3qcapgt",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "Axiom"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039163",
+      "name": "CJ Stroud",
+      "team": "HOU",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fbk2eqpo54lawppgetjn",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0037834",
+      "name": "Brock Purdy",
+      "team": "SF",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/myvg8siij2bn9ecx7btm",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033077",
+      "name": "Dak Prescott",
+      "team": "DAL",
+      "position": "QB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xmtaggdnhuyl4pdwtv8j",
+      "gear": [
+        {"category": "helmet", "brand": "Schutt", "model": "F7"},
+        {"category": "cleats", "brand": "Jordan", "model": "1 TD Low"}
+      ]
+    },
+    {
+      "gsis_id": "00-0032764",
+      "name": "Derrick Henry",
+      "team": "BAL",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/m7bv3lv9puapabltvykk",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0034844",
+      "name": "Saquon Barkley",
+      "team": "PHI",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ugiuanl8bf6uoya5mgid",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0038120",
+      "name": "Breece Hall",
+      "team": "NYJ",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ekmqygsmfkwwwdmuox4r",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0035700",
+      "name": "Josh Jacobs",
+      "team": "GB",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ksdusqxnwqtnph0htcfx",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0038542",
+      "name": "Bijan Robinson",
+      "team": "ATL",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rydwvaod6ethdjap41l6",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "Axiom"},
+        {"category": "cleats", "brand": "Adidas", "model": "Adizero Electric"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036223",
+      "name": "Jonathan Taylor",
+      "team": "IND",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ye4runp84oku1vnodsa7",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Cutters", "model": "Rev Pro 6.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039139",
+      "name": "Jahmyr Gibbs",
+      "team": "DET",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f5y3osxxtov5rgfv4ra5",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039040",
+      "name": "De'Von Achane",
+      "team": "MIA",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqfkz3hbyurjcwhw7xoi",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "Axiom"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0037840",
+      "name": "Kyren Williams",
+      "team": "LA",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vcvstwywz6iufk7iul3x",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033906",
+      "name": "Alvin Kamara",
+      "team": "NO",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/tl9enad6kiwv6cukf4vt",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0037248",
+      "name": "James Cook",
+      "team": "BUF",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bzdvrarxum9zate4te4b",
+      "gear": [
+        {"category": "helmet", "brand": "Schutt", "model": "F7"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Cutters", "model": "Rev Pro 6.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033293",
+      "name": "Aaron Jones",
+      "team": "MIN",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bktkfvgfwujkdbzkcfim",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Under Armour", "model": "F8"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033040",
+      "name": "Tyreek Hill",
+      "team": "MIA",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gdwjlpbkenmnsibawkht",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"},
+        {"category": "visor", "brand": "Oakley", "model": "Football Visor Clear"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036358",
+      "name": "CeeDee Lamb",
+      "team": "DAL",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tfuj9njqdw2dovkwhryc",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Jordan", "model": "1 TD Low"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036963",
+      "name": "Amon-Ra St. Brown",
+      "team": "DET",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jmfuamqblg8jag0stpnq",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036900",
+      "name": "Ja'Marr Chase",
+      "team": "CIN",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qkcb3qt2fhasfgtfuprd",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036322",
+      "name": "Justin Jefferson",
+      "team": "MIN",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vrftbpzwk6qmv0zjcysg",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Jordan", "model": "1 TD Low"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0031381",
+      "name": "Davante Adams",
+      "team": "NYJ",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jweoujpjv9u2a8k7wnos",
+      "gear": [
+        {"category": "helmet", "brand": "Schutt", "model": "F7"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Cutters", "model": "Rev Pro 6.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0035676",
+      "name": "A.J. Brown",
+      "team": "PHI",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/a014sgzctarbvhwb35lw",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036554",
+      "name": "Nico Collins",
+      "team": "HOU",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q7c9aq8rpremfygslmya",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039075",
+      "name": "Puka Nacua",
+      "team": "LA",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i1pmrhua5gpvwgsqphxa",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "Axiom"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Grip Boost", "model": "Stealth Pro"}
+      ]
+    },
+    {
+      "gsis_id": "00-0037740",
+      "name": "Garrett Wilson",
+      "team": "NYJ",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/llgosx4tokddwnyrgvbx",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0035640",
+      "name": "DK Metcalf",
+      "team": "SEA",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ezpzdcvzlu5ga4uv6oas",
+      "gear": [
+        {"category": "helmet", "brand": "Xenith", "model": "Shadow XR"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"},
+        {"category": "visor", "brand": "SHOC", "model": "Lightning Bolt Visor"}
+      ]
+    },
+    {
+      "gsis_id": "00-0031408",
+      "name": "Mike Evans",
+      "team": "TB",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfsaie1uiokfczwv9p4d",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0031588",
+      "name": "Stefon Diggs",
+      "team": "HOU",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/to2qwuffjnjlouctglsl",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Under Armour", "model": "Spotlight Franchise"},
+        {"category": "gloves", "brand": "Under Armour", "model": "F8"}
+      ]
+    },
+    {
+      "gsis_id": "00-0037239",
+      "name": "Chris Olave",
+      "team": "NO",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/riiwbow7zphqmomiazph",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036261",
+      "name": "Brandon Aiyuk",
+      "team": "SF",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qnfyhqxbppevv28hd3rx",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Cutters", "model": "Rev Pro 6.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0030506",
+      "name": "Travis Kelce",
+      "team": "KC",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ilk4qbxxs6mt3v9zfvtg",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Untouchable Pro 3"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033288",
+      "name": "George Kittle",
+      "team": "SF",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ivkrikewqqdllzvano8h",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0034753",
+      "name": "Mark Andrews",
+      "team": "BAL",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/y5maejm3puruskwc344y",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Under Armour", "model": "Highlight MC"},
+        {"category": "gloves", "brand": "Under Armour", "model": "F8"}
+      ]
+    },
+    {
+      "gsis_id": "00-0035229",
+      "name": "TJ Hockenson",
+      "team": "MIN",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n9zhffstwzae8i5di6tk",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039065",
+      "name": "Sam LaPorta",
+      "team": "DET",
+      "position": "TE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ucw8cfj5t5nwkx670wzu",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "Axiom"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Grip Boost", "model": "Stealth Pro"}
+      ]
+    },
+    {
+      "gsis_id": "00-0029597",
+      "name": "Justin Tucker",
+      "team": "BAL",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/thawkkxcbyuddwuidgb0",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033303",
+      "name": "Harrison Butker",
+      "team": "KC",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nx9u4wjcqwu8qojmtjkf",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0038562",
+      "name": "Jake Moody",
+      "team": "SF",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hu0y90mulhnhdg2fvlpv",
+      "gear": [
+        {"category": "helmet", "brand": "Schutt", "model": "F7"},
+        {"category": "cleats", "brand": "Nike", "model": "Alpha Menace Elite 4"}
+      ]
+    },
+    {
+      "gsis_id": "00-0037692",
+      "name": "Brandon Aubrey",
+      "team": "DAL",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ey93ifke290r8tn5jrqq",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"}
+      ]
+    },
+    {
+      "gsis_id": "00-0032726",
+      "name": "Ka'imi Fairbairn",
+      "team": "HOU",
+      "position": "K",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d14gkuipphr97tzmprpv",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Under Armour", "model": "Spotlight Franchise"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036932",
+      "name": "Micah Parsons",
+      "team": "DAL",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hqoqx0waptpv7cxzk3hi",
+      "gear": [
+        {"category": "helmet", "brand": "Vicis", "model": "Zero2"},
+        {"category": "cleats", "brand": "Adidas", "model": "Adizero Electric"},
+        {"category": "gloves", "brand": "Cutters", "model": "Rev Pro 6.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033868",
+      "name": "Myles Garrett",
+      "team": "CLE",
+      "position": "DE",
+      "headshot_url": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/y33rmtjxhgil7cjcftlc",
+      "gear": [
+        {"category": "helmet", "brand": "Xenith", "model": "Shadow XR"},
+        {"category": "cleats", "brand": "Nike", "model": "Alpha Menace Elite 4"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033886",
+      "name": "TJ Watt",
+      "team": "PIT",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r1ktugphegyoqsbbhrau",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0037190",
+      "name": "Sauce Gardner",
+      "team": "NYJ",
+      "position": "CB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nqas3icjxcvns2m6cnns",
+      "gear": [
+        {"category": "helmet", "brand": "Vicis", "model": "Zero2"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"},
+        {"category": "visor", "brand": "Oakley", "model": "Football Visor Clear"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036874",
+      "name": "Patrick Surtain II",
+      "team": "DEN",
+      "position": "CB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c2aej9togglsytzzagno",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036945",
+      "name": "Kyle Hamilton",
+      "team": "BAL",
+      "position": "S",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r9q3zfzf1fhogqylwvgh",
+      "gear": [
+        {"category": "helmet", "brand": "Vicis", "model": "Zero2"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036252",
+      "name": "Fred Warner",
+      "team": "SF",
+      "position": "LB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j1b4xzgk3ifjmhrcklwd",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036355",
+      "name": "Trevon Diggs",
+      "team": "DAL",
+      "position": "CB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q7uyepwnhhnxrh7wbvft",
+      "gear": [
+        {"category": "helmet", "brand": "Schutt", "model": "F7"},
+        {"category": "cleats", "brand": "Jordan", "model": "1 TD Low"},
+        {"category": "gloves", "brand": "Cutters", "model": "Rev Pro 6.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039104",
+      "name": "Will Anderson Jr.",
+      "team": "HOU",
+      "position": "DE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bfcqfj5qfhjrz0p7yz7g",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "Axiom"},
+        {"category": "cleats", "brand": "Nike", "model": "Alpha Menace Elite 4"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039905",
+      "name": "Marvin Harrison Jr.",
+      "team": "ARI",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zgjlxjhkvvqzxjffurho",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Speed 360"},
+        {"category": "gloves", "brand": "Nike", "model": "Vapor Jet 8.0"}
+      ]
+    },
+    {
+      "gsis_id": "00-0039907",
+      "name": "Malik Nabers",
+      "team": "NYG",
+      "position": "WR",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ccqhwmdlpf2a8evtahtl",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Grip Boost", "model": "Stealth Pro"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036971",
+      "name": "Nick Bosa",
+      "team": "SF",
+      "position": "DE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8vfzbpsprlp2mlwuydm",
+      "gear": [
+        {"category": "helmet", "brand": "Xenith", "model": "Shadow XR"},
+        {"category": "cleats", "brand": "Nike", "model": "Alpha Menace Elite 4"},
+        {"category": "gloves", "brand": "Nike", "model": "Superbad 7.0"},
+        {"category": "facemask", "brand": "Riddell", "model": "S2BDC-HT-LW"}
+      ]
+    },
+    {
+      "gsis_id": "00-0033280",
+      "name": "Maxx Crosby",
+      "team": "LV",
+      "position": "DE",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/upqtlhxwjqjkqwjrmfkk",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Nike", "model": "Vapor Edge Pro 360"},
+        {"category": "gloves", "brand": "Cutters", "model": "Rev Pro 6.0"},
+        {"category": "facemask", "brand": "Schutt", "model": "TEGOP-II"}
+      ]
+    },
+    {
+      "gsis_id": "00-0036893",
+      "name": "Najee Harris",
+      "team": "PIT",
+      "position": "RB",
+      "headshot_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knqekpjwfifkp3lnrgba",
+      "gear": [
+        {"category": "helmet", "brand": "Riddell", "model": "SpeedFlex"},
+        {"category": "cleats", "brand": "Under Armour", "model": "Highlight MC"},
+        {"category": "gloves", "brand": "Under Armour", "model": "F8"}
+      ]
+    }
+  ]
+}
